@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    color: #c76f17;
+    padding: 10px;
+    background-color: rgb(221, 115, 8);
+}
+
+.page {
+    border: 1px solid rgb(221, 115, 8);
+    background-color: #efefef;
+    padding: inherit;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: rgb(41, 9, 11, 0.5);
+}
